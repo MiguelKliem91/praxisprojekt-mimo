@@ -1,0 +1,82 @@
+[
+    {
+        "Titel": "The Godfather",
+        "Produzent": "Albert S. Ruddy",
+        "Erscheinungsjahr": 1972,
+        "ID": 1,
+        "Preis": 12.99,
+        "Auf_Lager": 50
+    },
+    {
+        "Titel": "The Dark Knight",
+        "Produzent": "Emma Thomas",
+        "Erscheinungsjahr": 2008,
+        "ID": 2,
+        "Preis": 14.99,
+        "Auf_Lager": 30
+    },
+    {
+        "Titel": "Inception",
+        "Produzent": "Emma Thomas",
+        "Erscheinungsjahr": 2010,
+        "ID": 3,
+        "Preis": 13.99,
+        "Auf_Lager": 45
+    },
+    {
+        "Titel": "Forrest Gump",
+        "Produzent": "Wendy Finerman",
+        "Erscheinungsjahr": 1994,
+        "ID": 4,
+        "Preis": 11.99,
+        "Auf_Lager": 60
+    },
+    {
+        "Titel": "The Matrix",
+        "Produzent": "Joel Silver",
+        "Erscheinungsjahr": 1999,
+        "ID": 5,
+        "Preis": 10.99,
+        "Auf_Lager": 40
+    },
+    {
+        "Titel": "Pulp Fiction",
+        "Produzent": "Lawrence Bender",
+        "Erscheinungsjahr": 1994,
+        "ID": 6,
+        "Preis": 9.99,
+        "Auf_Lager": 35
+    },
+    {
+        "Titel": "The Lord of the Rings: The Return of the King",
+        "Produzent": "Peter Jackson",
+        "Erscheinungsjahr": 2003,
+        "ID": 7,
+        "Preis": 15.99,
+        "Auf_Lager": 20
+    },
+    {
+        "Titel": "Fight Club",
+        "Produzent": "Art Linson",
+        "Erscheinungsjahr": 1999,
+        "ID": 8,
+        "Preis": 8.99,
+        "Auf_Lager": 25
+    },
+    {
+        "Titel": "Interstellar",
+        "Produzent": "Emma Thomas",
+        "Erscheinungsjahr": 2014,
+        "ID": 9,
+        "Preis": 16.99,
+        "Auf_Lager": 30
+    },
+    {
+        "Titel": "The Shawshank Redemption",
+        "Produzent": "Niki Marvin",
+        "Erscheinungsjahr": 1994,
+        "ID": 10,
+        "Preis": 12.49,
+        "Auf_Lager": 55
+    }
+]

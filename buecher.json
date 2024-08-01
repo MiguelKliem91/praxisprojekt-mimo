@@ -1,0 +1,12 @@
+[
+    {"Titel": "Die Verwandlung","Autor": "Franz Kafka","Erscheinungsjahr": 1915,"Herausgeber": "Kurt Wolff Verlag","Seitenanzahl": 74,"ID": 1,"Preis": 10,"Auf_Lager": 50},
+    {"Titel": "Der Prozess", "Autor": "Franz Kafka","Erscheinungsjahr": 1925,"Herausgeber": "Verlag Die Schmiede","Seitenanzahl": 299,"ID": 2,"Preis": 12,"Auf_Lager": 40},
+    {"Titel": "1984","Autor": "George Orwell","Erscheinungsjahr": 1949,"Herausgeber": "Secker & Warburg", "Seitenanzahl": 328,"ID": 3,"Preis": 15,"Auf_Lager": 30},
+    {"Titel": "Brave New World","Autor": "Aldous Huxley","Erscheinungsjahr": 1932,"Herausgeber": "Chatto & Windus","Seitenanzahl": 311,"ID": 4,"Preis": 18,"Auf_Lager": 25},
+    {"Titel": "Moby Dick","Autor": "Herman Melville","Erscheinungsjahr": 1851,"Herausgeber": "Harper & Brothers","Seitenanzahl": 635,"ID": 5,"Preis": 20,"Auf_Lager": 20},
+    {"Titel": "To Kill a Mockingbird","Autor": "Harper Lee","Erscheinungsjahr": 1960,"Herausgeber": "J.B. Lippincott & Co.","Seitenanzahl": 281,"ID": 6,"Preis": 14,"Auf_Lager": 35},
+    {"Titel": "Pride and Prejudice","Autor": "Jane Austen","Erscheinungsjahr": 1813,"Herausgeber": "T. Egerton","Seitenanzahl": 279,"ID": 7,"Preis": 10,"Auf_Lager": 45},
+    {"Titel": "The Great Gatsby","Autor": "F. Scott Fitzgerald","Erscheinungsjahr": 1925,"Herausgeber": "Charles Scribner's Sons","Seitenanzahl": 180,"ID": 8,"Preis": 13,"Auf_Lager": 38},
+    {"Titel": "War and Peace","Autor": "Leo Tolstoy","Erscheinungsjahr": 1869,"Herausgeber": "The Russian Messenger","Seitenanzahl": 1225,"ID": 9,"Preis": 25,"Auf_Lager": 15},
+    {"Titel": "Crime and Punishment","Autor": "Fyodor Dostoevsky","Erscheinungsjahr": 1866,"Herausgeber": "The Russian Messenger","Seitenanzahl": 671,"ID": 10,"Preis": 17,"Auf_Lager": 28}
+]

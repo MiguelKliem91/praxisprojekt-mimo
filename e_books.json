@@ -1,0 +1,92 @@
+[
+    {
+        "Titel": "Brave New World",
+        "Autor": "Aldous Huxley",
+        "Erscheinungsjahr": 1932,
+        "Herausgeber": "Chatto & Windus",
+        "Seitenanzahl": 311,
+        "ID": 1,
+        "Preis": 8.49
+    },
+    {
+        "Titel": "Fahrenheit 451",
+        "Autor": "Ray Bradbury",
+        "Erscheinungsjahr": 1953,
+        "Herausgeber": "Ballantine Books",
+        "Seitenanzahl": 249,
+        "ID": 2,
+        "Preis": 7.99
+    },
+    {
+        "Titel": "Jane Eyre",
+        "Autor": "Charlotte Brontë",
+        "Erscheinungsjahr": 1847,
+        "Herausgeber": "Smith, Elder & Co.",
+        "Seitenanzahl": 500,
+        "ID": 3,
+        "Preis": 6.99
+    },
+    {
+        "Titel": "The Catch-22",
+        "Autor": "Joseph Heller",
+        "Erscheinungsjahr": 1961,
+        "Herausgeber": "Simon & Schuster",
+        "Seitenanzahl": 453,
+        "ID": 4,
+        "Preis": 9.49
+    },
+    {
+        "Titel": "Animal Farm",
+        "Autor": "George Orwell",
+        "Erscheinungsjahr": 1945,
+        "Herausgeber": "Secker & Warburg",
+        "Seitenanzahl": 112,
+        "ID": 5,
+        "Preis": 5.99
+    },
+    {
+        "Titel": "The Hobbit",
+        "Autor": "J.R.R. Tolkien",
+        "Erscheinungsjahr": 1937,
+        "Herausgeber": "George Allen & Unwin",
+        "Seitenanzahl": 310,
+        "ID": 6,
+        "Preis": 8.99
+    },
+    {
+        "Titel": "Wuthering Heights",
+        "Autor": "Emily Brontë",
+        "Erscheinungsjahr": 1847,
+        "Herausgeber": "Thomas Cautley Newby",
+        "Seitenanzahl": 416,
+        "ID": 7,
+        "Preis": 7.49
+    },
+    {
+        "Titel": "Great Expectations",
+        "Autor": "Charles Dickens",
+        "Erscheinungsjahr": 1861,
+        "Herausgeber": "Chapman & Hall",
+        "Seitenanzahl": 544,
+        "ID": 8,
+        "Preis": 6.49
+    },
+    {
+        "Titel": "A Tale of Two Cities",
+        "Autor": "Charles Dickens",
+        "Erscheinungsjahr": 1859,
+        "Herausgeber": "Chapman & Hall",
+        "Seitenanzahl": 341,
+        "ID": 9,
+        "Preis": 7.99
+    },
+    {
+        "Titel": "Dracula",
+        "Autor": "Bram Stoker",
+        "Erscheinungsjahr": 1897,
+        "Herausgeber": "Archibald Constable and Company",
+        "Seitenanzahl": 418,
+        "ID": 10,
+        "Preis": 6.99
+    }
+]
